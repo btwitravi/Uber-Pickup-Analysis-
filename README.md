@@ -33,8 +33,8 @@ The main goal of this Exploratory Data Analysis (EDA) is to uncover trends in ri
 
 | File / Folder | Description |
 |----------------|--------------|
-| `Uber_EDA_Analysis.ipynb` | Jupyter notebook containing complete code and EDA process |
-| `data/` | Folder containing raw Uber datasets (April, May, June 2014) |
-| `images/` | Visualization charts used in the analysis and README |
-| `Uber_EDA_Report.pdf` | Final report with results and insights |
-| `README.md` | Project overview, objectives, insights, and visuals for GitHub |
+| `Uber_EDA_Analysis.ipynb` | Main Jupyter notebook with code & analysis |
+| `data/` | Raw Uber datasets (Apr–Jun 2014) |
+| `images/` | Visualization charts from the analysis |
+| `Uber_EDA_Report.pdf` | Final analysis report |
+| `README.md` | Project overview & summary |
