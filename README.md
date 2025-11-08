@@ -20,6 +20,10 @@ The main goal of this Exploratory Data Analysis (EDA) is to uncover trends in ri
 
 ---
 
+### 📦 Dataset Source
+The Uber pickup data (April–June 2014) is available on Kaggle:  
+👉 [Uber Pickups in New York City — Kaggle Dataset](https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city)
+
 ## 📊 Key Insights
 - **Base B02598** recorded the highest number of pickups.  
 - Ride demand peaks on **Thursdays and Fridays**.  
@@ -48,7 +52,6 @@ The main goal of this Exploratory Data Analysis (EDA) is to uncover trends in ri
 | File / Folder | Description |
 |----------------|--------------|
 | `Uber_EDA_Analysis.ipynb` | Main Jupyter notebook with code & analysis |
-| `data/` | Raw Uber datasets (Apr–Jun 2014) |
 | `images/` | Visualization charts from the analysis |
 | `Uber_EDA_Report.pdf` | Final analysis report |
 | `README.md` | Project overview & summary |
