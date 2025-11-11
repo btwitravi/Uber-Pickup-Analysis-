@@ -1,4 +1,4 @@
-# 🚕 Uber Pickup EDA Project — New York City
+# 🚕 End-to-End Uber Pickup Analysis — New York City
 
 ## 📘 Overview
 This project focuses on analyzing Uber pickup data in **New York City** from **April to June 2014**.  
