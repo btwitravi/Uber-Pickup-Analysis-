@@ -98,6 +98,6 @@ Below is the final Power BI dashboard view:
 
 ---
 
-⭐ *An Exploratory Data Analysis (EDA) project on Uber pickups — uncovering ride-demand patterns across New York City using Python and Jupyter Notebook.*
+⭐ An end-to-end data analysis project on Uber pickups — uncovering ride-demand patterns across New York City using Python for EDA, Excel for data cleaning, and Power BI for interactive visualization.
 
 ---
